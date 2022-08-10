@@ -58,7 +58,7 @@
         "doctrine/orm": "~2.3",
         "doctrine/doctrine-bundle": "^1.6|^2.0",
         "friendsofsymfony/user-bundle": "~2.0",
-        "mahefa/akismet-bundle": "dev-master",
+        "mahefa/akismet-bundle": "*",
         "symfony/expression-language": "~3.4|^4.3|^5|^6.0",
         "symfony/phpunit-bridge": "~3.4|^4.3|^5|^6.0",
         "phpunit/phpunit": "^6.5 | 9.*",
