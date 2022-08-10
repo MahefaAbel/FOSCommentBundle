@@ -1,0 +1,33 @@
+{
+    "require": {
+        "php": "^7.4 || ^8.0", //ok
+        "friendsofsymfony/rest-bundle": "^3.3", //ok
+        "jms/serializer-bundle": "~2.0|~3.0",
+        "symfony/framework-bundle": "~3.4|^4.3|^5|^6.0", //ok
+        "symfony/asset": "~3.4|^4.3|^5|^6.0", //ok
+        "symfony/dependency-injection": "~3.4|^4.3|^5|^6.0", //ok
+        "symfony/routing": "~3.4|^4.3|^5|^6.0", //ok
+        "symfony/security-bundle": "~3.4|^4.3|^5|^6.0", //ok
+        "symfony/yaml": "~3.4|^4.3|^5|^6.0", //ok
+        "symfony/form": "~3.4|^4.3|^5|^6.0", //ok
+        "symfony/validator": "~3.4|^4.3|^5|^6.0", //ok
+        "symfony/twig-bundle": "~3.4|^4.3|^5|^6.0", //ok
+        "symfony/twig-bridge": "~3.4|^4.3|^5|^6.0", //ok
+        "twig/twig": "~2.0|~3.0", //ok
+        "phpoption/phpoption": "^1.9", //ok 
+        "doctrine/annotations": "^1.13" //ok
+    },
+    "require-dev": {
+        "symfony/browser-kit": "~3.4|^4.3|^5|^6.0", // ok
+        "symfony/dom-crawler": "~3.4|^4.3|^5|^6.0", // ok
+        "symfony/css-selector": "~3.4|^4.3|^5|^6.0", // ok
+        "doctrine/orm": "~2.13", // ok
+        "doctrine/doctrine-bundle": "^1.6|^2.0|^2.7", // ok
+        "friendsofsymfony/user-bundle": "~2.0|3.0", // ok tsy ok
+        "mahefa/akismet-bundle": "*", // ok
+        "symfony/expression-language": "~3.4|^4.3|^5|^6.0", // ok
+        "symfony/phpunit-bridge": "~3.4|^4.3|^5|^6.0", // ok
+        "phpunit/phpunit": "^6.5 | 9.*", // ok
+        "friendsofphp/php-cs-fixer": "^2.2 | 3.*" // ok
+    }
+}
